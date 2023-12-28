@@ -1,5 +1,7 @@
 # AI Artical
 
+![image](https://github.com/darecallad/ai_artical/assets/27443134/7eec6677-2bc6-4bdb-9191-6dfd6b9740c7)
+
 Welcome to the `ai_artical` project, a modern web application leveraging React and Redux for state management.
 
 ## Description
